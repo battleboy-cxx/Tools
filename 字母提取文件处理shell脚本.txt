@@ -1,3 +1,6 @@
 sed -i '/^[0123456789]/d' a.srt
 sed -i '/^$/d' a.srt
 sed -i '/00/d' a.srt
+
+
+使用word查找替换^p 换成 ,
