@@ -1,16 +1,3 @@
 sed -i '/^[0123456789]/d' a.srt
-
 sed -i '/^$/d' a.srt
-
-sed '/^$/d' a.srt
-
-sed '/^[]/d' a.srt
-
 sed -i '/00/d' a.srt
-
-sed '/^\s*$/d' a.txt
-
-
-sed '/^\s*$/d' 
-sed -i '/00/d' a.srt
-sed -i '/^[0123456789]/d' a.srt
